@@ -5,7 +5,7 @@ Welcome to the TodoList Application! This simple web application allows you to m
 ## Usage
 
 1. **Start the Application**: 
-   - Clone this repository https://github.com/Leslyndizeye/todolist_web_application.git)
+   - Clone this repository https://github.com/Mgrace1/todolist_web_application.git)
    - and we change the current directory to cd todolist_web_application
    - after we change todolist_web_application to cd simple_todoList_application
    - first, you should have node.js
