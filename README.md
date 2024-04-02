@@ -23,7 +23,7 @@ Welcome to the TodoList Application! This simple web application allows you to m
 4. **Manage Your Tasks**:
    - Use the intuitive interface to efficiently add, edit, and manage your tasks.
 5. ## To access docker
-git clone "https://hub.docker.com/repository/docker/grace223/todo_list_grc/general"   
+git clone "https://hub.docker.com/repository/docker/grace223/todolist_app/general"
 ## Feedback
 I would greatly appreciate your feedback. If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/your-username/todoList-application/issues) on GitHub.
 
