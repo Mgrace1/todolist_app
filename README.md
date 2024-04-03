@@ -18,7 +18,7 @@ Welcome to the TodoList Application! This simple web application allows you to m
    -we open the application after we run it by `npm run dev` and after, we will be provided this link
    "http://localhost:5174/" we have to run in a web browser.
    -   Once the application is running, open your web browser.
-   - Navigate to the following link: [TodoList Application](http://localhost:5174/)
+   - Navigate to the following link: [TodoList Application](http://localhost:5173/)
    
 4. **Manage Your Tasks**:
    - Use the intuitive interface to efficiently add, edit, and manage your tasks.
